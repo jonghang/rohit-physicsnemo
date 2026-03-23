@@ -1,0 +1,19 @@
+[project]
+name = "rohit-physicsnemo-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.86.0",
+    "bokeh>=3.9.0",
+    "google>=3.0.0",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.5.6",
+    "matplotlib>=3.10.8",
+    "openai>=2.29.0",
+    "pandas>=3.0.1",
+    "pip>=26.0.1",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+]
